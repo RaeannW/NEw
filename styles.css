@@ -14,7 +14,7 @@ body {
   }
   .one {
     display: flex;
-    margin-left: 100px;
+    margin-left: 40px;
     font-size: 30px;
   }
   .flex-container3 {
@@ -86,8 +86,8 @@ body {
     display: flex;
     background-color: white;
     border: solid;
-    margin-left: 15%;
-    padding: 120px;
+    margin-left: 5%;
+    padding: 10px;
     margin-top: 60px;
     font-size: 20px;
     border-width: 20px;
@@ -95,10 +95,9 @@ body {
   .flexEight {
     display: flex;
     background-color: white;
-    justify-content: center;
     margin-left: 8%;
     border: solid;
-    padding: 190px;
+    padding: 50px;
     margin-top: 60px;
     font-size: 20px;
     border-width: 20px;
@@ -113,7 +112,8 @@ body {
     background-color: white;
     border: solid;
     border-width: 20px;
-    padding: 450px; 
+    padding: 20px; 
+    font-size: 20px;
   }
   .pics {
     width: 20%;
